@@ -1,8 +1,8 @@
 import streamlit
-"""import pandas as pd
-import requests
+#import pandas as pd
+#import requests
 import snowflake.connector
-from urllib.error import URLError"""
+#from urllib.error import URLError"""
 
 streamlit.title("Zena Shop")
 
