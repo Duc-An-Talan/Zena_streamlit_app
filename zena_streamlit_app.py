@@ -6,4 +6,4 @@ import requests
 import snowflake.connector
 from urllib.error import URLError
 
-streamlit.header('Zena Shop')
+streamlit.title("Zena Shop")
